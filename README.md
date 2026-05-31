@@ -54,3 +54,4 @@ The application provides task management, AI suggestions, and progress tracking 
 * Wireframing
 * Prototyping
 * Human-Centered AI Design
+* 
